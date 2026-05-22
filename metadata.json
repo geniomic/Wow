@@ -1,0 +1,6 @@
+{
+  "name": "WoW - events & party",
+  "description": "Allestimenti personalizzati, vendita e noleggio di decorazioni per battesimi, comunioni, matrimoni e feste nei Castelli Romani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
